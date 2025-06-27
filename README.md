@@ -1,6 +1,6 @@
 # Resumo dos Exercícios de JavaScript
 
-Este repositório contém os últimos 9 exercícios desenvolvidos durante nossos estudos de JavaScript, focando em lógica de programação, manipulação de dados, funções e métodos avançados.
+Este repositório contém os últimos 9 exercícios desenvolvidos durante os estudos de JavaScript, focando em lógica de programação, manipulação de dados, funções e métodos avançados.
 
 ---
 
@@ -13,7 +13,7 @@ Exercício 2. **Jogo de adivinhação com geração de número aleatório**
 Desenvolvimento de um jogo simples que gera e verifica número secreto.
 
 Exercício 3. **Identificação de palavras únicas em uma string**  
-Extração e verificação de palavras únicas sem usar métodos como indexOf.
+Extração e verificação de palavras únicas.
 
 Exercício 4. **Cálculo do fatorial recursivo simples**  
 Implementação básica da função fatorial utilizando recursão.
@@ -75,3 +75,17 @@ bash
 node nomeDoArquivo.js
 
 4. Para exercícios que pedem entrada do usuário, siga as instruções no terminal.
+
+---
+## Contribuições
+Sinta-se à vontade para contribuir com melhorias, sugestões de novos exercícios ou otimizações no código. Toda colaboração é bem-vinda!
+
+---
+## Licença
+Este repositório é distribuído sob a licença MIT.
+
+---
+
+### Gabriel Manso
+JavaScript Student
+06/2025
