@@ -13,39 +13,39 @@ const obj = paresParaObjeto(pares);
 const paresNovos = objetoParaPares(obj);
 
 function paresParaObjeto(pares) {
-  // Criar um objeto vazio para armazenar resultado
+  // Cria um objeto vazio para armazenar resultado
   const obj = {};
   
-  // Percorrer cada par no array 'pares'
+  // Percorre cada par no array 'pares'
   for (let i = 0; i < pares.length; i++) {
-    // pegar a chave e o valor do par atual
+    // pega a chave e o valor do par atual
     const chave = pares[i][0];
     const valor = pares[i][1];
     
-    // adicionar essa chave e valor ao objeto
+    // adiciona essa chave e valor ao objeto
     obj[chave] = valor;
   }
   
-  // retornar o objeto montado
+  // retorna o objeto montado
   return obj;
 }
 
 function objetoParaPares(obj) {
-  // Criar um array vazio para armazenar os pares
+  // Cria um array vazio para armazenar os pares
   const pares = [];
   
-  // Percorrer as propriedades do objeto
+  // Percorre as propriedades do objeto
   for (let chave in obj) {
     if (obj.hasOwnProperty(chave)) {
-      // pegar o valor da chave atual
+      // pega o valor da chave atual
       const valor = obj[chave];
       
-      // adicionar um array [chave, valor] no array pares
+      // adiciona um array [chave, valor] no array pares
       pares.push([chave, valor]);
     }
   }
   
-  // retornar o array de pares
+  // retorna o array de pares
   return pares;
 }
 
