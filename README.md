@@ -87,7 +87,7 @@ Este repositório é distribuído sob a licença MIT.
 ---
 
 ### Gabriel Manso
-JavaScript Student 
-+praTI
-Codifica
-06/2025
+JavaScript Student  
++praTI  
+Codifica  
+06/2025  
