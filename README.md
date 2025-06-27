@@ -1,6 +1,6 @@
 # Resumo dos Exercícios de JavaScript
 
-Este repositório contém os últimos 9 exercícios desenvolvidos durante os estudos de JavaScript, referentes à Atividade 02 - Módulo 01, do curso +praTI e Codifica, focando em lógica de programação, manipulação de dados, funções e métodos avançados.
+Este repositório contém os últimos 9 exercícios desenvolvidos durante os estudos de JavaScript, referentes à Atividade 02 - Módulo 01, do curso Dev. Full Stack Jr. da +praTI e Codifica, focando em lógica de programação, manipulação de dados, funções e métodos avançados.
 
 ---
 
